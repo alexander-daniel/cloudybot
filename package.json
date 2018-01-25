@@ -7,5 +7,11 @@
     "hat": "^0.0.3",
     "inquirer": "^5.0.1",
     "ora": "^1.3.0"
-  }
+  },
+  "name": "cloud-dev",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:alexander-daniel/cloud-dev.git",
+  "author": "alexander-daniel <alex.vados@gmail.com>",
+  "license": "MIT"
 }

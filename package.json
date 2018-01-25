@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "boxen": "^1.3.0",
+    "clipboardy": "^1.2.2",
+    "do-wrapper": "^3.11.1",
+    "dotenv": "^4.0.0",
+    "hat": "^0.0.3",
+    "inquirer": "^5.0.1",
+    "ora": "^1.3.0"
+  }
+}

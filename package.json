@@ -10,8 +10,8 @@
   },
   "name": "cloud-dev",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "git@github.com:alexander-daniel/cloud-dev.git",
-  "author": "alexander-daniel <alex.vados@gmail.com>",
+  "author": "alexander-daniel",
   "license": "MIT"
 }

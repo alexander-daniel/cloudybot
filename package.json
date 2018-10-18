@@ -9,6 +9,7 @@
     "ora": "^1.3.0"
   },
   "name": "cloudybot",
+  "bin": "src/index.js",
   "version": "0.0.1",
   "main": "src/index.js",
   "repository": "git@github.com:alexander-daniel/cloudybot.git",
